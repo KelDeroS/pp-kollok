@@ -1,0 +1,7 @@
+com\kelderos\Main.class
+com\kelderos\operations\StringRepeat.class
+com\kelderos\requests\RepeatRequest.class
+com\kelderos\operations\StringConcatenation.class
+com\kelderos\requests\ConcatenationRequest.class
+com\kelderos\string_controller\Controller.class
+com\kelderos\service\StringService.class
